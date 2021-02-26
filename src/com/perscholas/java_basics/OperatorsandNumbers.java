@@ -119,7 +119,6 @@ public class OperatorsandNumbers {
 		System.out.println("prefix sum: " + sum);
 		sum = x++ + y;
 		System.out.println("postfix: " + sum);
-		
 	}
 
 }
